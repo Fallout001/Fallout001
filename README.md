@@ -1,4 +1,1 @@
 - Hi, I’m @fallout001
-- I am a Beginner - Intermediate Programmer with Decent Experience in C++, Currently learning C#, Java, Yaml, Github as a platform
-- I am still very new and need as much time and patience as I can get.
-- Feel free to contact
