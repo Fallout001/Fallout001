@@ -14,7 +14,7 @@ My projects primarily involve **C# and C++**, with a focus on game server plugin
 ### SCP:SL Plugins
 A collection of plugins and extensions developed for SCP: Secret Laboratory servers.
 
-### Discord Media Indexer
+### IndexIt - Discord Media Catalouge
 In progress of creating a discord bot that will catalogue and repost Embeds of all kinds. My gateway to SQL and Dsharp5
 
 *Take a look around, feel free to reach out :)
